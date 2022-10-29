@@ -99,7 +99,7 @@ header-includes:
 
 # Выполнение лабораторной работы
 
-1. Скачала и установила texlive. (рис. [-@fig:001], [-@fig:002], [-@fig:003]).
+1. Скачал и установил texlive. (рис. [-@fig:001], [-@fig:002], [-@fig:003]).
 
 ![Рис. 1](image/1.png){ #fig:001 width=70% }
 
@@ -108,7 +108,7 @@ header-includes:
 ![Рис. 3](image/3.png){ #fig:003 width=70% }
 
 
-2. Скачала и установила pandoc, pandoc-crossref. (рис. [-@fig:004], [-@fig:005], [-@fig:006], [-@fig:007]).
+2. Скачал и установил pandoc, pandoc-crossref. (рис. [-@fig:004], [-@fig:005], [-@fig:006], [-@fig:007]).
 
 ![Рис. 4](image/4.png){ #fig:004 width=70% }
 
